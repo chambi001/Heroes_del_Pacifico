@@ -1,0 +1,1362 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.33f1 (915a7af8b0d5) revision 9525882'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19043) 64bit Professional' Language: 'es' Physical Memory: 4078 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.33f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/2 INSTITUTO/Proyecto/Juego/The_Age_of_Man
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63855
+Successfully changed project path to: D:/2 INSTITUTO/Proyecto/Juego/The_Age_of_Man
+D:/2 INSTITUTO/Proyecto/Juego/The_Age_of_Man
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 289.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.33f1 (915a7af8b0d5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.33f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/2 INSTITUTO/Proyecto/Juego/The_Age_of_Man/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: NVIDIA GeForce GT 330M  (ID=0xa29)
+    Vendor:   
+    VRAM:     972 MB
+    Driver:   9.18.13.4174
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.33f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.33f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.33f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56640
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.33f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.014215 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 304.65 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.318 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3319ms)
+		BeginReloadAssembly (338ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (4ms)
+		EndReloadAssembly (2578ms)
+			LoadAssemblies (325ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (842ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (170ms)
+			SetupLoadedEditorAssemblies (1003ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (26ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (305ms)
+				BeforeProcessingInitializeOnLoad (68ms)
+				ProcessInitializeOnLoadAttributes (449ms)
+				ProcessInitializeOnLoadMethodAttributes (152ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.011903 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\2 INSTITUTO\Proyecto\Juego\The_Age_of_Man\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 287.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.671 seconds
+Domain Reload Profiling:
+	ReloadAssembly (6673ms)
+		BeginReloadAssembly (835ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (26ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (72ms)
+		EndReloadAssembly (5508ms)
+			LoadAssemblies (522ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1805ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (318ms)
+			SetupLoadedEditorAssemblies (2145ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (18ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (288ms)
+				BeforeProcessingInitializeOnLoad (476ms)
+				ProcessInitializeOnLoadAttributes (1221ms)
+				ProcessInitializeOnLoadMethodAttributes (94ms)
+				AfterProcessingInitializeOnLoad (46ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (37ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.25 seconds
+Refreshing native plugins compatible for Editor in 1.84 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2368 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 104.8 MB.
+System memory in use after: 104.9 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2804.
+Total: 15.036700 ms (FindLiveObjects: 0.556400 ms CreateObjectMapping: 0.382600 ms MarkObjects: 13.596700 ms  DeleteObjects: 0.496800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/src_Personaje2.cs
+  artifactKey: Guid(81bd1296c67540347b9b9c963b92a133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/src_Personaje2.cs using Guid(81bd1296c67540347b9b9c963b92a133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b7a06703359c013450eda428d8aa2f7') in 0.153656 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 664.642117 seconds.
+  path: Assets/scr_PersonajeN2.cs
+  artifactKey: Guid(c00f8ecc06a5d84459d1de9c76149ae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scr_PersonajeN2.cs using Guid(c00f8ecc06a5d84459d1de9c76149ae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f2db92e8c549aa1f0c34001b9363239') in 0.016050 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.948956 seconds.
+  path: Assets/scr_Chileno.cs
+  artifactKey: Guid(7628ea98f98c0c8459605221b176057b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scr_Chileno.cs using Guid(7628ea98f98c0c8459605221b176057b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d0bc982c2534fac6509687cadb9d3a1') in 0.016599 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.221548 seconds.
+  path: Assets/src_Personaje1.cs
+  artifactKey: Guid(29d809556e2962f46b8d88c3dffc3d00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/src_Personaje1.cs using Guid(29d809556e2962f46b8d88c3dffc3d00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'beaaa9653daeddb6ac1393639dfbf412') in 0.010774 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 627.117596 seconds.
+  path: Assets/Effects/pngwing.com (33).png
+  artifactKey: Guid(223809975ba8abc448a945c150acbf2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/pngwing.com (33).png using Guid(223809975ba8abc448a945c150acbf2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0370563c45c7dc1248bb6d835e814aea') in 0.250995 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2683.568178 seconds.
+  path: Assets/Sprites/Armas/klipartz.com.png
+  artifactKey: Guid(24ea3695bbb976c4abd2494a4b1283d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Armas/klipartz.com.png using Guid(24ea3695bbb976c4abd2494a4b1283d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36ac8117a87afc85e002dabf89f04083') in 0.522179 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.652913 seconds.
+  path: Assets/Sprites/Armas/klipartz.com (2).png
+  artifactKey: Guid(bd52a17ae77cf804ab116b17fd8fd7d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Armas/klipartz.com (2).png using Guid(bd52a17ae77cf804ab116b17fd8fd7d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b911c25b00a99c28e498eb927b8c0d5a') in 0.096995 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.722483 seconds.
+  path: Assets/Sprites/Armas/pngwing.com (40).png
+  artifactKey: Guid(e1bb32e540b451942a96166ccfed07e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Armas/pngwing.com (40).png using Guid(e1bb32e540b451942a96166ccfed07e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0db33826860daea376e07d4c7ae62c8c') in 0.075575 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 638.973621 seconds.
+  path: Assets/Sprites/Armas/Recurso 2 (2).prefab
+  artifactKey: Guid(f1b388968ec57794fa5bee10118fe9d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Armas/Recurso 2 (2).prefab using Guid(f1b388968ec57794fa5bee10118fe9d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Recurso 2 (2)) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+The Animator Controller (Recurso 2 (2)) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+ -> (artifact id: '76e68decd6873f7bd24837151ab7fdbc') in 0.637352 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 165.699004 seconds.
+  path: Assets/Sprites/Armas/klipartz.com (2).png
+  artifactKey: Guid(bd52a17ae77cf804ab116b17fd8fd7d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Armas/klipartz.com (2).png using Guid(bd52a17ae77cf804ab116b17fd8fd7d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bb8dc8d161795307bba360b7ebb30be') in 0.098562 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 31.742897 seconds.
+  path: Assets/Sprites/Armas/klipartz.com (2).png
+  artifactKey: Guid(bd52a17ae77cf804ab116b17fd8fd7d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Armas/klipartz.com (2).png using Guid(bd52a17ae77cf804ab116b17fd8fd7d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3590603765cbe85d2feaf2a762e2be9a') in 0.070782 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.794182 seconds.
+  path: Assets/Sprites/Armas/klipartz.com (2).png
+  artifactKey: Guid(bd52a17ae77cf804ab116b17fd8fd7d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Armas/klipartz.com (2).png using Guid(bd52a17ae77cf804ab116b17fd8fd7d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '189e6d7dc7473899cb6be7649a00e7d2') in 0.046622 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 989.894384 seconds.
+  path: Assets/Sprites/Armas/pngwing.com (40).png
+  artifactKey: Guid(e1bb32e540b451942a96166ccfed07e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Armas/pngwing.com (40).png using Guid(e1bb32e540b451942a96166ccfed07e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adfe4a85c3d153cf4b7eb662a5f0d6d9') in 0.081573 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 42.690672 seconds.
+  path: Assets/Sprites/Armas/pngwing.com (40).png
+  artifactKey: Guid(e1bb32e540b451942a96166ccfed07e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Armas/pngwing.com (40).png using Guid(e1bb32e540b451942a96166ccfed07e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '900122725514f3e27ccfc57aba9b8609') in 0.052358 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 90.571663 seconds.
+  path: Assets/Sprites/Armas/pngwing.com (40).png
+  artifactKey: Guid(e1bb32e540b451942a96166ccfed07e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Armas/pngwing.com (40).png using Guid(e1bb32e540b451942a96166ccfed07e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80ebdf8b9737efb839050a93d6984f5e') in 0.050219 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 56.014546 seconds.
+  path: Assets/Sprites/Armas/pngwing.com (40).png
+  artifactKey: Guid(e1bb32e540b451942a96166ccfed07e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Armas/pngwing.com (40).png using Guid(e1bb32e540b451942a96166ccfed07e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c31c3a202c9d394c1a8a7fa45bee466e') in 0.052350 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 219.788366 seconds.
+  path: Assets/Sprites/Armas/pngwing.com (40).png
+  artifactKey: Guid(e1bb32e540b451942a96166ccfed07e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Armas/pngwing.com (40).png using Guid(e1bb32e540b451942a96166ccfed07e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '610b2e9022b0c4de306205c31e29a8f4') in 0.057106 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.015293 seconds.
+  path: Assets/Sprites/Armas/pngwing.com (40).png
+  artifactKey: Guid(e1bb32e540b451942a96166ccfed07e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Armas/pngwing.com (40).png using Guid(e1bb32e540b451942a96166ccfed07e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7617b9108e0c9752bff5272393b4d545') in 0.042060 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 555.949495 seconds.
+  path: Assets/Sprites/Escenarios/Fondos/pngwing.com (2).png
+  artifactKey: Guid(b1f8a3a61b7b4fb48b8e346d9dff7776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Fondos/pngwing.com (2).png using Guid(b1f8a3a61b7b4fb48b8e346d9dff7776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c97d91a48b848b608f82c1beec9b00b0') in 0.228514 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 478.208180 seconds.
+  path: Assets/scr_Abaroa.cs
+  artifactKey: Guid(34a96d8626d84704ea81a6e2d24d239f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scr_Abaroa.cs using Guid(34a96d8626d84704ea81a6e2d24d239f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36a036aa936476333cb14151f9948004') in 0.016573 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.507659 seconds.
+  path: Assets/scr_PersonajeN2.cs
+  artifactKey: Guid(c00f8ecc06a5d84459d1de9c76149ae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scr_PersonajeN2.cs using Guid(c00f8ecc06a5d84459d1de9c76149ae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc7e113e9ed0859c1f6760a577489e39') in 0.014775 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012502 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\2 INSTITUTO\Proyecto\Juego\The_Age_of_Man\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.40 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.791 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4819ms)
+		BeginReloadAssembly (1445ms)
+			ExecutionOrderSort (1ms)
+			DisableScriptedObjects (192ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (810ms)
+		EndReloadAssembly (3203ms)
+			LoadAssemblies (313ms)
+			RebuildTransferFunctionScriptingTraits (1ms)
+			SetupTypeCache (1804ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (109ms)
+			SetupLoadedEditorAssemblies (820ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (14ms)
+				SetLoadedEditorAssemblies (4ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (259ms)
+				ProcessInitializeOnLoadAttributes (486ms)
+				ProcessInitializeOnLoadMethodAttributes (34ms)
+				AfterProcessingInitializeOnLoad (19ms)
+				EditorAssembliesLoaded (2ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (26ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.36 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2344 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.2 MB.
+System memory in use after: 106.3 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2827.
+Total: 16.101300 ms (FindLiveObjects: 0.648700 ms CreateObjectMapping: 0.275300 ms MarkObjects: 14.855500 ms  DeleteObjects: 0.319300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010277 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\2 INSTITUTO\Proyecto\Juego\The_Age_of_Man\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.276 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2277ms)
+		BeginReloadAssembly (266ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (17ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (72ms)
+		EndReloadAssembly (1850ms)
+			LoadAssemblies (232ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (617ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (98ms)
+			SetupLoadedEditorAssemblies (718ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (254ms)
+				ProcessInitializeOnLoadAttributes (410ms)
+				ProcessInitializeOnLoadMethodAttributes (25ms)
+				AfterProcessingInitializeOnLoad (18ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (28ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.08 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2345 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.2 MB.
+System memory in use after: 106.4 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2831.
+Total: 7.019800 ms (FindLiveObjects: 0.339700 ms CreateObjectMapping: 0.211500 ms MarkObjects: 6.319700 ms  DeleteObjects: 0.146700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005960 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\2 INSTITUTO\Proyecto\Juego\The_Age_of_Man\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.427 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2427ms)
+		BeginReloadAssembly (278ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (18ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (69ms)
+		EndReloadAssembly (1992ms)
+			LoadAssemblies (267ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (804ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (93ms)
+			SetupLoadedEditorAssemblies (662ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (202ms)
+				ProcessInitializeOnLoadAttributes (407ms)
+				ProcessInitializeOnLoadMethodAttributes (24ms)
+				AfterProcessingInitializeOnLoad (18ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (21ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.04 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2345 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.3 MB.
+System memory in use after: 106.4 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2834.
+Total: 5.857000 ms (FindLiveObjects: 0.289600 ms CreateObjectMapping: 0.235600 ms MarkObjects: 5.198500 ms  DeleteObjects: 0.130700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005989 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\2 INSTITUTO\Proyecto\Juego\The_Age_of_Man\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.300 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2301ms)
+		BeginReloadAssembly (262ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (16ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (69ms)
+		EndReloadAssembly (1879ms)
+			LoadAssemblies (266ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (705ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (101ms)
+			SetupLoadedEditorAssemblies (645ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (195ms)
+				ProcessInitializeOnLoadAttributes (398ms)
+				ProcessInitializeOnLoadMethodAttributes (25ms)
+				AfterProcessingInitializeOnLoad (16ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (18ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.95 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2345 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.3 MB.
+System memory in use after: 106.4 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2837.
+Total: 6.073000 ms (FindLiveObjects: 0.326200 ms CreateObjectMapping: 0.198300 ms MarkObjects: 5.367100 ms  DeleteObjects: 0.179500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006022 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\2 INSTITUTO\Proyecto\Juego\The_Age_of_Man\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.04 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.642 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2643ms)
+		BeginReloadAssembly (275ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (19ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (67ms)
+		EndReloadAssembly (2210ms)
+			LoadAssemblies (280ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (748ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (136ms)
+			SetupLoadedEditorAssemblies (815ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (12ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (281ms)
+				ProcessInitializeOnLoadAttributes (467ms)
+				ProcessInitializeOnLoadMethodAttributes (31ms)
+				AfterProcessingInitializeOnLoad (21ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (25ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2345 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.2 MB.
+System memory in use after: 106.3 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2840.
+Total: 7.389700 ms (FindLiveObjects: 0.340500 ms CreateObjectMapping: 0.211100 ms MarkObjects: 6.693300 ms  DeleteObjects: 0.142500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011255 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\2 INSTITUTO\Proyecto\Juego\The_Age_of_Man\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.88 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.475 seconds
+Domain Reload Profiling:
+	ReloadAssembly (5477ms)
+		BeginReloadAssembly (529ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (33ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (126ms)
+		EndReloadAssembly (4610ms)
+			LoadAssemblies (521ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1607ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (267ms)
+			SetupLoadedEditorAssemblies (1727ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (24ms)
+				SetLoadedEditorAssemblies (3ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (530ms)
+				ProcessInitializeOnLoadAttributes (1067ms)
+				ProcessInitializeOnLoadMethodAttributes (60ms)
+				AfterProcessingInitializeOnLoad (40ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (46ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.82 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2345 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.3 MB.
+System memory in use after: 106.4 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2843.
+Total: 17.475600 ms (FindLiveObjects: 0.845600 ms CreateObjectMapping: 0.542000 ms MarkObjects: 15.826500 ms  DeleteObjects: 0.256800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 492.654713 seconds.
+  path: Assets/Scenes/Genoveva.unity
+  artifactKey: Guid(9dc157e4edee8544298e2c6287506082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Genoveva.unity using Guid(9dc157e4edee8544298e2c6287506082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e757da849665e1ce5431483ce255f106') in 0.039955 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012559 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\2 INSTITUTO\Proyecto\Juego\The_Age_of_Man\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.797 seconds
+Domain Reload Profiling:
+	ReloadAssembly (5798ms)
+		BeginReloadAssembly (541ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (37ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (148ms)
+		EndReloadAssembly (4894ms)
+			LoadAssemblies (521ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1771ms)
+			ReleaseScriptCaches (4ms)
+			RebuildScriptCaches (278ms)
+			SetupLoadedEditorAssemblies (1725ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (22ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (527ms)
+				ProcessInitializeOnLoadAttributes (1066ms)
+				ProcessInitializeOnLoadMethodAttributes (63ms)
+				AfterProcessingInitializeOnLoad (42ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (54ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.80 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2345 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.3 MB.
+System memory in use after: 106.5 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2846.
+Total: 13.994600 ms (FindLiveObjects: 0.532800 ms CreateObjectMapping: 0.472300 ms MarkObjects: 12.739500 ms  DeleteObjects: 0.246500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 221.711077 seconds.
+  path: Assets/Scenes/Avaroa.unity
+  artifactKey: Guid(2ec0b3b09dfd3de449184b239d2489d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Avaroa.unity using Guid(2ec0b3b09dfd3de449184b239d2489d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd086c704fe20b5093045be95bd552792') in 0.018120 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.025562 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\2 INSTITUTO\Proyecto\Juego\The_Age_of_Man\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.589 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2589ms)
+		BeginReloadAssembly (392ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (15ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (74ms)
+		EndReloadAssembly (2039ms)
+			LoadAssemblies (504ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (716ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (103ms)
+			SetupLoadedEditorAssemblies (663ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (203ms)
+				ProcessInitializeOnLoadAttributes (405ms)
+				ProcessInitializeOnLoadMethodAttributes (28ms)
+				AfterProcessingInitializeOnLoad (16ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (20ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.97 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2345 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.3 MB.
+System memory in use after: 106.5 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2849.
+Total: 5.857700 ms (FindLiveObjects: 0.277600 ms CreateObjectMapping: 0.177600 ms MarkObjects: 5.262700 ms  DeleteObjects: 0.138100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 440906.776444 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio
+  artifactKey: Guid(ca5f355efc4fde2448818e4118e3b1cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio using Guid(ca5f355efc4fde2448818e4118e3b1cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bd7a930fcc9dd7608ade94223c09371') in 0.801640 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.161617 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas
+  artifactKey: Guid(c3a39b5df593dee4bb6747b05e9229d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas using Guid(c3a39b5df593dee4bb6747b05e9229d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47152fc0c400bc3f816b4c4ee2105956') in 0.018731 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 168.589293 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (1).png
+  artifactKey: Guid(bbf66121e7cf1d44ba91029f843f9924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (1).png using Guid(bbf66121e7cf1d44ba91029f843f9924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72b91ff61042cfc3802616328e2e2825') in 2.162020 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000881 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (9).png
+  artifactKey: Guid(c4426a9d8c507734cb16be46b18bb176) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (9).png using Guid(c4426a9d8c507734cb16be46b18bb176) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c41a139516abfbd4115cdcd6870da8c7') in 0.153800 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000696 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (6).png
+  artifactKey: Guid(070d7cac3ada0de49ab2ba8e9b67ef18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (6).png using Guid(070d7cac3ada0de49ab2ba8e9b67ef18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2cbf8b7959cf3be699c6d0cbad24771') in 0.103744 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000735 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (4).png
+  artifactKey: Guid(be0c8075b6710e044bca7eca1f8b8e79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (4).png using Guid(be0c8075b6710e044bca7eca1f8b8e79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48dd583f05ea09382199793dc2da097d') in 0.081969 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000754 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (8).png
+  artifactKey: Guid(3929df51ea074fa42b0a238701c179b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (8).png using Guid(3929df51ea074fa42b0a238701c179b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9958c6f703d2da2cabe0ee67d1247cfd') in 0.095955 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000974 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (10).png
+  artifactKey: Guid(a8f3dd46ae36c31468fa519976d8732c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (10).png using Guid(a8f3dd46ae36c31468fa519976d8732c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72fa1b43e5ae81cab2337a88efd0f452') in 0.078740 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000776 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (3).png
+  artifactKey: Guid(5890a05fc62f0f54d98580ef7b063bdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (3).png using Guid(5890a05fc62f0f54d98580ef7b063bdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '040de7097cecde6e153f9eb2154e4289') in 0.172300 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000996 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (11).png
+  artifactKey: Guid(1405bcd8ebc8f9248a2464f8c359fade) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (11).png using Guid(1405bcd8ebc8f9248a2464f8c359fade) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '524f133242dfe218436725b553f4ff6a') in 0.087789 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000865 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (12).png
+  artifactKey: Guid(b56b9a990b2aa504998b0913f07e0ba2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (12).png using Guid(b56b9a990b2aa504998b0913f07e0ba2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0eee31fa3404b87cf270a7cc5c19af7') in 0.100556 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001661 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (16).png
+  artifactKey: Guid(10563994e8d6340458d4a277b20b962e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (16).png using Guid(10563994e8d6340458d4a277b20b962e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93c4f51047a77f84a119445128f9f358') in 0.145784 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000662 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (13).png
+  artifactKey: Guid(98eb922c8de75dd41bd0ddb4d8089c6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (13).png using Guid(98eb922c8de75dd41bd0ddb4d8089c6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdf8a374a29c9892faab001a5a56f79e') in 0.078994 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000869 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (17).png
+  artifactKey: Guid(a18a1265b6b30d748b370d28de142d19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (17).png using Guid(a18a1265b6b30d748b370d28de142d19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67be6212e7f419a45cbe85448f962bdb') in 0.107277 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000788 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (14).png
+  artifactKey: Guid(e3f9d97502609644d9fc61310aedc01f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (14).png using Guid(e3f9d97502609644d9fc61310aedc01f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '674d689977a816668c6960eb8046460e') in 0.117390 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000684 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (2).png
+  artifactKey: Guid(f82a8f8332418e94e8591a44c2996496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (2).png using Guid(f82a8f8332418e94e8591a44c2996496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1b58370ac61129737dd53f8ffb80d91') in 0.122890 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000794 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (5).png
+  artifactKey: Guid(b48afae853ed15b4097c7f41ec271bff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (5).png using Guid(b48afae853ed15b4097c7f41ec271bff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60592d4984f088d9caa567b396e34cc4') in 0.183620 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000741 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (15).png
+  artifactKey: Guid(4a1c40cb09724a249916963c369f8df1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (15).png using Guid(4a1c40cb09724a249916963c369f8df1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13852c6be185b08035be88a908c4d35d') in 0.089791 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000745 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (7).png
+  artifactKey: Guid(2f92c2dc1774dd149be4cdd036005c16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (7).png using Guid(2f92c2dc1774dd149be4cdd036005c16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '623233cff0af0530c72c8fcce35021c0') in 0.091010 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 182.226821 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (18).png
+  artifactKey: Guid(9f47aedf7a1e34a4bba4138236bb75b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (18).png using Guid(9f47aedf7a1e34a4bba4138236bb75b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45ad4e2e5039d6d75dd6b7b7339c5ef3') in 0.156816 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000835 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (20).png
+  artifactKey: Guid(e6d2d433cddb6654f98ede9dbbe17f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (20).png using Guid(e6d2d433cddb6654f98ede9dbbe17f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6a9b62c77a179fefe10f7c6521f4bb1') in 0.114923 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000726 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (21).png
+  artifactKey: Guid(fdc41f7d17fdd2849b0c7bbef16c22bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (21).png using Guid(fdc41f7d17fdd2849b0c7bbef16c22bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd99d605fbdc39d9f282d4e3eb5f47f2') in 0.090003 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000682 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (19).png
+  artifactKey: Guid(26994e773d475d641b44974cb14c9ea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (19).png using Guid(26994e773d475d641b44974cb14c9ea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '283ce0121482ae280840f6ba4a580ede') in 0.092396 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 62.691579 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (22).png
+  artifactKey: Guid(3b29ad88f5c96aa4eb80b2b6021df8d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (22).png using Guid(3b29ad88f5c96aa4eb80b2b6021df8d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '313d56d97dbfbbc92988f8f4b89604d2') in 0.214198 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000861 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (23).png
+  artifactKey: Guid(02cbd449b79059e4e8a5d9e68a480377) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (23).png using Guid(02cbd449b79059e4e8a5d9e68a480377) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b4e8a4ce5f24d091b254b73e4d64fce') in 0.155334 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000846 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (24).png
+  artifactKey: Guid(60595a5b1923e264b8fdd3580454ba1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (24).png using Guid(60595a5b1923e264b8fdd3580454ba1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56e2a5219bce9c5f566935064ec76f4b') in 0.158418 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000730 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (25).png
+  artifactKey: Guid(2f54c666a1a6cd1419bcc81a55a4796a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (25).png using Guid(2f54c666a1a6cd1419bcc81a55a4796a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78a8cc9854c35eeb0dc551a2a5fd4008') in 0.090898 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 75.410600 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (7).png
+  artifactKey: Guid(2f92c2dc1774dd149be4cdd036005c16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (7).png using Guid(2f92c2dc1774dd149be4cdd036005c16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33dd3d54e191bf655b99f9d3eb41f09e') in 0.053428 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 20.652113 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (7).png
+  artifactKey: Guid(2f92c2dc1774dd149be4cdd036005c16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (7).png using Guid(2f92c2dc1774dd149be4cdd036005c16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7adbf1d39168be39741b24fb25b478b') in 0.295402 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 134.846502 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (26).png
+  artifactKey: Guid(e1898f2119d3cec42936d328efc9beef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (26).png using Guid(e1898f2119d3cec42936d328efc9beef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64c8a6abfc576b9e09163d35b73b2270') in 0.133433 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000734 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (27).png
+  artifactKey: Guid(aadf753b0ce86164ea4ae5c2c9239b11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (27).png using Guid(aadf753b0ce86164ea4ae5c2c9239b11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cd59995071c5e72f007cee264dc16b4') in 0.169686 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000653 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (28).png
+  artifactKey: Guid(8f0d0e1215b4acf449d680c3e141dcf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (28).png using Guid(8f0d0e1215b4acf449d680c3e141dcf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3646f54c7704a6bbfbe0513e885b4831') in 0.082583 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000678 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (29).png
+  artifactKey: Guid(45fd165f9baecf743854b49a41a5af58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (29).png using Guid(45fd165f9baecf743854b49a41a5af58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dd11493b69faca23198dc44bd7babd9') in 0.164194 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 84.274434 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (30).png
+  artifactKey: Guid(fdccafbefdf799148943b1a8d800ec85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (30).png using Guid(fdccafbefdf799148943b1a8d800ec85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0db7942d4b4f29dca73d4643bb07c63') in 0.122295 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001003 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (32).png
+  artifactKey: Guid(27b9fea86d79e534cb30746702f277cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (32).png using Guid(27b9fea86d79e534cb30746702f277cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db7a226f995a9499dce0b28a727bd64a') in 0.204211 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000725 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (31).png
+  artifactKey: Guid(01283174668b10945855b40d1ddb943f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (31).png using Guid(01283174668b10945855b40d1ddb943f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa4b120fe80e450a3e406d4591443688') in 0.096095 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000695 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (33).png
+  artifactKey: Guid(7dce2e7a017817945a38c2951b0dfe24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (33).png using Guid(7dce2e7a017817945a38c2951b0dfe24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86911bfd6266d23a3ee872368f434630') in 0.080079 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 202.534316 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (34).png
+  artifactKey: Guid(454f51e0c950d904f9df5521c85dd3d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (34).png using Guid(454f51e0c950d904f9df5521c85dd3d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad7f2da3ac52e313e42d959706741de3') in 0.096498 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.033882 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (35).png
+  artifactKey: Guid(46cdde37f8c81334487869d58a8a7b5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (35).png using Guid(46cdde37f8c81334487869d58a8a7b5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '415a10c92dee8b036837255374951ca1') in 0.181847 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000780 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (37).png
+  artifactKey: Guid(06913704f43a3444b86338d1a7f8533d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (37).png using Guid(06913704f43a3444b86338d1a7f8533d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4725184fe07418e3ebd817b5b7fe00d') in 0.113862 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001023 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (38).png
+  artifactKey: Guid(614d347d5b610604792edc7c3b616131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (38).png using Guid(614d347d5b610604792edc7c3b616131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e029160d4ae3fa06d01b3d6e112c97d2') in 0.111447 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001622 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (36).png
+  artifactKey: Guid(42cef23dbd12a514fa176b0fd198e471) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (36).png using Guid(42cef23dbd12a514fa176b0fd198e471) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '921fa7b1136be8fa350fe71f19dd9073') in 0.086547 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.776206 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (39).png
+  artifactKey: Guid(c34f9872513054144add7a9e38b23257) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (39).png using Guid(c34f9872513054144add7a9e38b23257) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbaf3a6164101f168334e40656d5eb1c') in 0.166633 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 50.525253 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (40).png
+  artifactKey: Guid(5eda54744aa575c42b4a1df729443add) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (40).png using Guid(5eda54744aa575c42b4a1df729443add) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f880856b3d498d396643afa7971cd47') in 0.122294 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000842 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (41).png
+  artifactKey: Guid(3b5680980aa90c2409316412bfd79dd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (41).png using Guid(3b5680980aa90c2409316412bfd79dd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f843733ae4e04b5ed671aa25ce44fed7') in 0.107939 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000786 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (43).png
+  artifactKey: Guid(7ce9bf9fc4d49bd47ab4fe7933f14af0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (43).png using Guid(7ce9bf9fc4d49bd47ab4fe7933f14af0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2dff6adb351745cd4dc7b5c900927d1') in 0.162975 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000721 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (42).png
+  artifactKey: Guid(5ca068339b51bbf478ff5bdfb2211e85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (42).png using Guid(5ca068339b51bbf478ff5bdfb2211e85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cdb5825b7d96b8e9b68227675bb59a7') in 0.117963 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000682 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (44).png
+  artifactKey: Guid(19312dc1d64dea94dbba8e15e4fd6b51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (44).png using Guid(19312dc1d64dea94dbba8e15e4fd6b51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cec4c6c8bbdfbc964d7b543db890ec6') in 0.168775 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 35.998184 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (30).png
+  artifactKey: Guid(fdccafbefdf799148943b1a8d800ec85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (30).png using Guid(fdccafbefdf799148943b1a8d800ec85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f443e57826b00cbb1018edabb4389f26') in 0.097999 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.231659 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (30).png
+  artifactKey: Guid(fdccafbefdf799148943b1a8d800ec85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (30).png using Guid(fdccafbefdf799148943b1a8d800ec85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44c918f53fc83da6a25faaab93a276d2') in 0.173094 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 62.658649 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (45).png
+  artifactKey: Guid(cef016c1cf8e4da4c93147935f16cfcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (45).png using Guid(cef016c1cf8e4da4c93147935f16cfcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44ff09d029895ff798d7c365938eff21') in 0.097366 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000701 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (47).png
+  artifactKey: Guid(8e7c8509c97fc654c9a7473f605061df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (47).png using Guid(8e7c8509c97fc654c9a7473f605061df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db406971d5b4b3bc3d11f35a8dc5635e') in 0.186033 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000644 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (46).png
+  artifactKey: Guid(ee0cd42d875c298428d0699e4e831af8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (46).png using Guid(ee0cd42d875c298428d0699e4e831af8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd296f2020ebed26eee024035ca2cb12') in 0.083395 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000692 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (48).png
+  artifactKey: Guid(497cc32128adc754296dbf3026d87210) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (48).png using Guid(497cc32128adc754296dbf3026d87210) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9bc5c795e0e3830c775470c4b0c46a9') in 0.097282 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.162159 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (36).png
+  artifactKey: Guid(42cef23dbd12a514fa176b0fd198e471) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (36).png using Guid(42cef23dbd12a514fa176b0fd198e471) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea50afb090a72cca3ec2cd2f74f84df5') in 0.046815 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.275765 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (49).png
+  artifactKey: Guid(c4678db062aa8b745b0e7a88aed947f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (49).png using Guid(c4678db062aa8b745b0e7a88aed947f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d360bbb35732c323196119f11a098a5') in 0.099013 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000633 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (53).png
+  artifactKey: Guid(9a1bec27b0e99b649b80557c3cf5254d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (53).png using Guid(9a1bec27b0e99b649b80557c3cf5254d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba8390b8b3d51205780ca747b08f2dd9') in 0.082222 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000703 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (50).png
+  artifactKey: Guid(713796f4589a96c4e95cdaacba1865db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (50).png using Guid(713796f4589a96c4e95cdaacba1865db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f63a24d985e2b3cca2ef3e45fe6e9d9f') in 0.144454 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000760 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com.png
+  artifactKey: Guid(cbb5eae44640fba4f889d5202b41e1ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com.png using Guid(cbb5eae44640fba4f889d5202b41e1ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7493b3515bb1ffa5414d6d141886400f') in 0.102438 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000674 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (132).png
+  artifactKey: Guid(01af70c0af628794d9b0e61674580933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/Tumbas/pngwing.com (132).png using Guid(01af70c0af628794d9b0e61674580933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78a09a136ee736e5a9d2771977923d28') in 0.082699 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 626.908937 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/muros
+  artifactKey: Guid(33cfdd3766e64224292ee89eb10710fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/muros using Guid(33cfdd3766e64224292ee89eb10710fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34590ff2f69400a52edfcb653b2fce4a') in 0.032504 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 268.423821 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/muros/pngwing.com (2).png
+  artifactKey: Guid(61826df77d593b548b98da5c2454b277) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/muros/pngwing.com (2).png using Guid(61826df77d593b548b98da5c2454b277) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b681ee7745737b2a5c96584d8032f058') in 0.124489 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000703 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/muros/pngwing.com (17).png
+  artifactKey: Guid(fd8c8ccbb16d9024384c544dfd1febce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/muros/pngwing.com (17).png using Guid(fd8c8ccbb16d9024384c544dfd1febce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7df926272c09102bb3a1da2cf573b480') in 0.095674 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000707 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/muros/pngwing.com (4).png
+  artifactKey: Guid(025f8b0e5e1314a4496620a4b2436bb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/muros/pngwing.com (4).png using Guid(025f8b0e5e1314a4496620a4b2436bb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a24b5febfbe4b4ad5e156ae22a0b85d') in 0.153852 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000878 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/muros/pngwing.com (13).png
+  artifactKey: Guid(3c2b66c978b7d814f94b5c75f4ddb0ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/muros/pngwing.com (13).png using Guid(3c2b66c978b7d814f94b5c75f4ddb0ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd036a34e9f20c7e621dcee86252c0fcc') in 0.171522 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000657 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/muros/pngwing.com (18).png
+  artifactKey: Guid(feadb840a4d04f146a85f20f2f061408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/muros/pngwing.com (18).png using Guid(feadb840a4d04f146a85f20f2f061408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4d2b9ffb282d1e5a2af82fa8aceaef3') in 0.079669 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000698 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/muros/pngwing.com (6).png
+  artifactKey: Guid(8c88093d3b9bb624fa2999f813bd5b30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/muros/pngwing.com (6).png using Guid(8c88093d3b9bb624fa2999f813bd5b30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b91662b42baf804b60ac20054eded10a') in 0.090274 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001010 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/muros/pngwing.com (10).png
+  artifactKey: Guid(66d49b548d44cae49a7788cdee6999ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/muros/pngwing.com (10).png using Guid(66d49b548d44cae49a7788cdee6999ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29b4fa8403a501a05d65a8376a930ec8') in 0.079464 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000680 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/muros/pngwing.com (12).png
+  artifactKey: Guid(b8252534217f7e149b628e9fd630780d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/muros/pngwing.com (12).png using Guid(b8252534217f7e149b628e9fd630780d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9510e69b86edd837ea80fe5bd16f3c48') in 0.101095 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000663 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/muros/pngwing.com (14).png
+  artifactKey: Guid(57ce211ac99d83843b9ac0bf1259c8c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/muros/pngwing.com (14).png using Guid(57ce211ac99d83843b9ac0bf1259c8c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6874fa58ac2083ed4e7116f37cf9e1b') in 0.068677 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000702 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/muros/pngwing.com (16).png
+  artifactKey: Guid(b51f57726d1677e4180387cfa3f0d472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/muros/pngwing.com (16).png using Guid(b51f57726d1677e4180387cfa3f0d472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '248a3454ae4ac9ee75daa4b2aa29c237') in 0.093881 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000947 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/muros/pngwing.com (3).png
+  artifactKey: Guid(dd6271770262f084baeccb86a2edfae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/muros/pngwing.com (3).png using Guid(dd6271770262f084baeccb86a2edfae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e1fcbf9d97eba8a18eb83d25f2d8c5e') in 0.108675 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000662 seconds.
+  path: Assets/Sprites/Escenarios/Cementerio/muros/pngwing.com (11).png
+  artifactKey: Guid(9fef223af84d31e46b5555ccf57490b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Cementerio/muros/pngwing.com (11).png using Guid(9fef223af84d31e46b5555ccf57490b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '100a3f7e3426d56ed57a7041a5c45318') in 0.130265 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2580.585895 seconds.
+  path: Assets/Sprites/Escenarios/Lamparas
+  artifactKey: Guid(71b583430f8b7864eb84abbf388d1123) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Lamparas using Guid(71b583430f8b7864eb84abbf388d1123) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dafcfd471b826478f17d8335888fcb13') in 0.018355 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.130786 seconds.
+  path: Assets/Sprites/Escenarios/Lamparas/pngwing.com (1).png
+  artifactKey: Guid(57fa9bae7dabc1f40bc0829975cdfd4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Lamparas/pngwing.com (1).png using Guid(57fa9bae7dabc1f40bc0829975cdfd4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '565c89f81dbc74d77d91b67e8cea6edf') in 0.107528 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/Sprites/Escenarios/Lamparas/pngwing.com (4).png
+  artifactKey: Guid(d9bf74d5c3c81254cbb467d7f745d40a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Lamparas/pngwing.com (4).png using Guid(d9bf74d5c3c81254cbb467d7f745d40a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd0c274ca3d35283822ad17dd4660bb0') in 0.053077 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000477 seconds.
+  path: Assets/Sprites/Escenarios/Lamparas/pngwing.com (8).png
+  artifactKey: Guid(0b8dbf84853616848a99c48edf483b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Lamparas/pngwing.com (8).png using Guid(0b8dbf84853616848a99c48edf483b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c7c555eed7b85ac221f704aa00f829f') in 0.097166 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000467 seconds.
+  path: Assets/Sprites/Escenarios/Lamparas/pngwing.com (11).png
+  artifactKey: Guid(730edf9336fed584880fc8f35dc9ac20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Lamparas/pngwing.com (11).png using Guid(730edf9336fed584880fc8f35dc9ac20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9efe62f00bef2d66a596ba09b5de3b35') in 0.049821 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000464 seconds.
+  path: Assets/Sprites/Escenarios/Lamparas/pngwing.com (10).png
+  artifactKey: Guid(ff970ba7150e1c5489b18d8d672d9872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Lamparas/pngwing.com (10).png using Guid(ff970ba7150e1c5489b18d8d672d9872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '964c88612ec7502dab182cdae77ed624') in 0.051023 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Sprites/Escenarios/Lamparas/pngwing.com (9).png
+  artifactKey: Guid(e58b5ebbb1de4b0499156e54e0faa539) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Lamparas/pngwing.com (9).png using Guid(e58b5ebbb1de4b0499156e54e0faa539) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c80a7cd4b509810d1461a9675375889') in 0.032656 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000501 seconds.
+  path: Assets/Sprites/Escenarios/Lamparas/pngwing.com (12).png
+  artifactKey: Guid(ab7fbef467dc3f34fb400b2a80a46dcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Lamparas/pngwing.com (12).png using Guid(ab7fbef467dc3f34fb400b2a80a46dcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '931ad90afd2f4134f09a4369be9dd00e') in 0.051633 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000657 seconds.
+  path: Assets/Sprites/Escenarios/Lamparas/pngwing.com (5).png
+  artifactKey: Guid(98c3694bb6aa02f4f938ac7e4a70230c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Lamparas/pngwing.com (5).png using Guid(98c3694bb6aa02f4f938ac7e4a70230c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '428321960100ed202a152455d1c68efb') in 0.041680 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000489 seconds.
+  path: Assets/Sprites/Escenarios/Lamparas/pngwing.com.png
+  artifactKey: Guid(4a232515718be634c859c280dc4b79eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Lamparas/pngwing.com.png using Guid(4a232515718be634c859c280dc4b79eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12b21bebaad1615eeed67629c20bb51b') in 0.066194 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/Sprites/Escenarios/Lamparas/pngwing.com (3).png
+  artifactKey: Guid(d9ab193439c6b9946bcfdd28acd177dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Lamparas/pngwing.com (3).png using Guid(d9ab193439c6b9946bcfdd28acd177dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'deda303171def9b27809f092c0151a05') in 0.040066 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000593 seconds.
+  path: Assets/Sprites/Escenarios/Lamparas/pngwing.com (6).png
+  artifactKey: Guid(d00ee9803d75b6046bb02f78ccfffa9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Lamparas/pngwing.com (6).png using Guid(d00ee9803d75b6046bb02f78ccfffa9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc65f08ff28df3181f7f4c6509baada4') in 0.035899 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000563 seconds.
+  path: Assets/Sprites/Escenarios/Lamparas/pngwing.com (15).png
+  artifactKey: Guid(0b52400cf552f9640b09b332ee7dbb6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Lamparas/pngwing.com (15).png using Guid(0b52400cf552f9640b09b332ee7dbb6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1eeddee4bff152ecadc043cfa5108c07') in 0.054384 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000430 seconds.
+  path: Assets/Sprites/Escenarios/Lamparas/pngwing.com (2).png
+  artifactKey: Guid(628be7d744b55df43a0f207fa0056258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Lamparas/pngwing.com (2).png using Guid(628be7d744b55df43a0f207fa0056258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f49392f729c544cd7031c352c6d76a56') in 0.060945 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/Sprites/Escenarios/Lamparas/pngwing.com (7).png
+  artifactKey: Guid(78b7e726053d4684fbc8916a268e30cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Lamparas/pngwing.com (7).png using Guid(78b7e726053d4684fbc8916a268e30cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40119852fa2021865f1eeffa6fe0d98f') in 0.039300 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5852.863500 seconds.
+  path: Assets/Sprites/Escenarios/Muros
+  artifactKey: Guid(96290dec689fd9c4eb391cd3715c74be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Muros using Guid(96290dec689fd9c4eb391cd3715c74be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '295ace961afe86ded548b11ea62a4b7b') in 0.075202 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 59.115989 seconds.
+  path: Assets/Sprites/Escenarios/Muros/pngwing.com (1).png
+  artifactKey: Guid(e127c2f6eeac648469692de43e50a228) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Muros/pngwing.com (1).png using Guid(e127c2f6eeac648469692de43e50a228) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b71c3ec5fd966677988dab1e8858c9e') in 0.480653 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000746 seconds.
+  path: Assets/Sprites/Escenarios/Muros/pngwing.com (12).png
+  artifactKey: Guid(a18481d6150dec742a992b92903d0def) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Muros/pngwing.com (12).png using Guid(a18481d6150dec742a992b92903d0def) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54343f2627f7ab2840ceb30b874ba439') in 0.191706 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000906 seconds.
+  path: Assets/Sprites/Escenarios/Muros/pngwing.com (5).png
+  artifactKey: Guid(a66fa3ccc4844cd489be58d35a4e50e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Muros/pngwing.com (5).png using Guid(a66fa3ccc4844cd489be58d35a4e50e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a71ac8aee6305d9a9cfca45c6bf9f18') in 0.186028 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000681 seconds.
+  path: Assets/Sprites/Escenarios/Muros/pngwing.com (4).png
+  artifactKey: Guid(a979b2264c54f64488258a684088d9b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Muros/pngwing.com (4).png using Guid(a979b2264c54f64488258a684088d9b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e40a3c585a90b143b3b918417eb13b46') in 0.130792 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000701 seconds.
+  path: Assets/Sprites/Escenarios/Muros/pngwing.com (10).png
+  artifactKey: Guid(664afd23e6f770e488ff56091692b498) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Muros/pngwing.com (10).png using Guid(664afd23e6f770e488ff56091692b498) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fb6032721a4c3b13c3cd2323600e30e') in 0.075214 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000797 seconds.
+  path: Assets/Sprites/Escenarios/Muros/pngwing.com (6).png
+  artifactKey: Guid(3a4ed833fec6d5349bc4620c99a39d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Muros/pngwing.com (6).png using Guid(3a4ed833fec6d5349bc4620c99a39d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b6ea878e83099ee41953710de18521f') in 0.099071 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001085 seconds.
+  path: Assets/Sprites/Escenarios/Muros/pngwing.com (13).png
+  artifactKey: Guid(ff53693e56a972e43a4e32589ff0024e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Muros/pngwing.com (13).png using Guid(ff53693e56a972e43a4e32589ff0024e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b38248b79c34c549ce3ce736a13e656') in 0.097347 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000716 seconds.
+  path: Assets/Sprites/Escenarios/Muros/pngwing.com (7).png
+  artifactKey: Guid(59c024a8dfa17f346aa90ce816262d7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Muros/pngwing.com (7).png using Guid(59c024a8dfa17f346aa90ce816262d7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8c9162843580455a495b2b1d494d3ac') in 0.142648 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000719 seconds.
+  path: Assets/Sprites/Escenarios/Muros/pngwing.com (8).png
+  artifactKey: Guid(30bf7f8ccef74ce40bbecdf56c81bec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Muros/pngwing.com (8).png using Guid(30bf7f8ccef74ce40bbecdf56c81bec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '629e64b17611b95d650910ed7828d0bc') in 0.126914 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001125 seconds.
+  path: Assets/Sprites/Escenarios/Muros/pngwing.com (3).png
+  artifactKey: Guid(89eee46e1e79508449a7b11c0f2d47aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Muros/pngwing.com (3).png using Guid(89eee46e1e79508449a7b11c0f2d47aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed65a79b357b392ff360cf145ede7ac4') in 0.088877 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000728 seconds.
+  path: Assets/Sprites/Escenarios/Muros/pngwing.com (9).png
+  artifactKey: Guid(53c62ba13df505e4cafb3a54fb87c402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Muros/pngwing.com (9).png using Guid(53c62ba13df505e4cafb3a54fb87c402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c78233cf2a9ad32db26704f76a52e53') in 0.149786 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000642 seconds.
+  path: Assets/Sprites/Escenarios/Muros/pngwing.com (2).png
+  artifactKey: Guid(7f25f8d93eaf5054097369aeb2f322f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Muros/pngwing.com (2).png using Guid(7f25f8d93eaf5054097369aeb2f322f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e41e1d3d2e830b1be47e8d26817d024') in 0.061605 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011709 seconds.
+  path: Assets/Sprites/Escenarios/Muros/pngwing.com (11).png
+  artifactKey: Guid(1adf8e3bda93e9145a4c9802cecb5822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Muros/pngwing.com (11).png using Guid(1adf8e3bda93e9145a4c9802cecb5822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e35bc0e7e1affc57195196028b6e0b86') in 0.096528 seconds 

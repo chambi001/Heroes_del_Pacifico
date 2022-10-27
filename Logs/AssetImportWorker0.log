@@ -1,0 +1,666 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.33f1 (915a7af8b0d5) revision 9525882'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19043) 64bit Professional' Language: 'es' Physical Memory: 4078 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.33f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/2 INSTITUTO/Proyecto/Juego/The_Age_of_Man
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57439
+Successfully changed project path to: D:/2 INSTITUTO/Proyecto/Juego/The_Age_of_Man
+D:/2 INSTITUTO/Proyecto/Juego/The_Age_of_Man
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 120.04 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.33f1 (915a7af8b0d5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.33f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/2 INSTITUTO/Proyecto/Juego/The_Age_of_Man/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: NVIDIA GeForce GT 330M  (ID=0xa29)
+    Vendor:   
+    VRAM:     972 MB
+    Driver:   9.18.13.4174
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.33f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.33f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.33f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56460
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.33f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.011300 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 154.33 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.631 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1632ms)
+		BeginReloadAssembly (280ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (1157ms)
+			LoadAssemblies (274ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (351ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (78ms)
+			SetupLoadedEditorAssemblies (483ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (154ms)
+				BeforeProcessingInitializeOnLoad (31ms)
+				ProcessInitializeOnLoadAttributes (214ms)
+				ProcessInitializeOnLoadMethodAttributes (71ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.020682 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\2 INSTITUTO\Proyecto\Juego\The_Age_of_Man\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 117.11 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.842 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2844ms)
+		BeginReloadAssembly (349ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (13ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (36ms)
+		EndReloadAssembly (2335ms)
+			LoadAssemblies (384ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (700ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (134ms)
+			SetupLoadedEditorAssemblies (840ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (117ms)
+				BeforeProcessingInitializeOnLoad (186ms)
+				ProcessInitializeOnLoadAttributes (472ms)
+				ProcessInitializeOnLoadMethodAttributes (40ms)
+				AfterProcessingInitializeOnLoad (16ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (15ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.15 seconds
+Refreshing native plugins compatible for Editor in 1.38 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2368 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 104.8 MB.
+System memory in use after: 104.9 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2804.
+Total: 6.545900 ms (FindLiveObjects: 0.344100 ms CreateObjectMapping: 0.212700 ms MarkObjects: 5.797200 ms  DeleteObjects: 0.190000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/Genoveva 1.unity
+  artifactKey: Guid(bee677c803e73ea41b1c020a345e7b56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Genoveva 1.unity using Guid(bee677c803e73ea41b1c020a345e7b56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07838eb60c789db11c146e8ee540ac82') in 0.020081 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.762506 seconds.
+  path: Assets/Scenes/Colorados.unity
+  artifactKey: Guid(bee677c803e73ea41b1c020a345e7b56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Colorados.unity using Guid(bee677c803e73ea41b1c020a345e7b56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14c2a3dc309f7018b9c5c0b8a12018b9') in 0.015013 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2649.907556 seconds.
+  path: Assets/Scenes/Colorados.unity
+  artifactKey: Guid(bee677c803e73ea41b1c020a345e7b56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Colorados.unity using Guid(bee677c803e73ea41b1c020a345e7b56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f34b7b0f5ac8f8c0d0b2630b0911e222') in 0.010338 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.282538 seconds.
+  path: Assets/Scenes/Colorados 1.unity
+  artifactKey: Guid(de5a198d208e9e5479c25555cc280ad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Colorados 1.unity using Guid(de5a198d208e9e5479c25555cc280ad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cbd6cc397f6b8d317e0d33de096cbcd') in 0.017881 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.745446 seconds.
+  path: Assets/Scenes/Genoveva1.unity
+  artifactKey: Guid(9dc157e4edee8544298e2c6287506082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Genoveva1.unity using Guid(9dc157e4edee8544298e2c6287506082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eed9ed10ca7edec6038f825fda0d8715') in 0.015424 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.390539 seconds.
+  path: Assets/Scenes/Genoveva.unity
+  artifactKey: Guid(de5a198d208e9e5479c25555cc280ad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Genoveva.unity using Guid(de5a198d208e9e5479c25555cc280ad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7ce7eba9c3eab6be46b9dffc29d7f7a') in 0.016677 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 202.116369 seconds.
+  path: Assets/Scenes/Colorados.unity
+  artifactKey: Guid(bee677c803e73ea41b1c020a345e7b56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Colorados.unity using Guid(bee677c803e73ea41b1c020a345e7b56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85b345e04e606dd68dbb82a91def0f66') in 0.005631 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6698.442797 seconds.
+  path: Assets/Sprites/Escenarios/Casas
+  artifactKey: Guid(0292c6f626fe89746912415837470aa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Casas using Guid(0292c6f626fe89746912415837470aa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'affb64727865c15c3d6852f46f309dd7') in 0.081822 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 431.464242 seconds.
+  path: Assets/Sprites/Escenarios/Casas/klipartz.com (20).png
+  artifactKey: Guid(b45d6dc997d83ef4493797af5ae5837d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Casas/klipartz.com (20).png using Guid(b45d6dc997d83ef4493797af5ae5837d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fc7e2f6c2a643c417b5561f3226df1c') in 4.359215 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000887 seconds.
+  path: Assets/Sprites/Escenarios/Casas/klipartz.com (43).png
+  artifactKey: Guid(ed8381d352e87f8488d8fc6d736e2f02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Casas/klipartz.com (43).png using Guid(ed8381d352e87f8488d8fc6d736e2f02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e028c6147a60f2edf6c050c31b50da36') in 2.104615 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000785 seconds.
+  path: Assets/Sprites/Escenarios/Casas/pngwing.com (2).png
+  artifactKey: Guid(2c9b1fe3be56b5041a94a25e3270983f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Casas/pngwing.com (2).png using Guid(2c9b1fe3be56b5041a94a25e3270983f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f43e8552638e42bdd56b0cc858a657cc') in 0.119384 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000916 seconds.
+  path: Assets/Sprites/Escenarios/Casas/pngwing.com (1).png
+  artifactKey: Guid(dadf458d67fe12a4ebe8730a0cfe94d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Casas/pngwing.com (1).png using Guid(dadf458d67fe12a4ebe8730a0cfe94d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45bc20389f7508496e1cd3b791993e3c') in 0.174481 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000737 seconds.
+  path: Assets/Sprites/Escenarios/Casas/klipartz.com (30).png
+  artifactKey: Guid(d84b394af422898498ddebd9d12cae69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Casas/klipartz.com (30).png using Guid(d84b394af422898498ddebd9d12cae69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af44c010950bb2100ae6f926ea4a7501') in 0.125909 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000775 seconds.
+  path: Assets/Sprites/Escenarios/Casas/klipartz.com (38).png
+  artifactKey: Guid(93f7c20dfb65cb14ea62f75ef2858234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Casas/klipartz.com (38).png using Guid(93f7c20dfb65cb14ea62f75ef2858234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1084c0c341bba900517af82beac4b49c') in 0.235576 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000762 seconds.
+  path: Assets/Sprites/Escenarios/Casas/klipartz.com (56).png
+  artifactKey: Guid(5b7f6d2247eed674ea791fe9dae1d921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Casas/klipartz.com (56).png using Guid(5b7f6d2247eed674ea791fe9dae1d921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c4356404a8ae8d83cce8a278fd1fba4') in 0.106351 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000767 seconds.
+  path: Assets/Sprites/Escenarios/Casas/pngwing.com (5).png
+  artifactKey: Guid(8d8408704b5e96e4ba0247bea4bbbb9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Casas/pngwing.com (5).png using Guid(8d8408704b5e96e4ba0247bea4bbbb9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b6e2129ba9875f2feef011cf82b8b7d') in 0.095954 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000707 seconds.
+  path: Assets/Sprites/Escenarios/Casas/klipartz.com (73).png
+  artifactKey: Guid(4a36fde35cb43954093e6016d6330895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Casas/klipartz.com (73).png using Guid(4a36fde35cb43954093e6016d6330895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b04ef728eb1708dc419d895b90039b99') in 0.184964 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000829 seconds.
+  path: Assets/Sprites/Escenarios/Casas/pngwing.com (4).png
+  artifactKey: Guid(d427855df685f8f4cbf1347f2eaa853c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Casas/pngwing.com (4).png using Guid(d427855df685f8f4cbf1347f2eaa853c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c140787457443026c3da4d3e698c76d') in 0.086154 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000614 seconds.
+  path: Assets/Sprites/Escenarios/Casas/klipartz.com (59).png
+  artifactKey: Guid(b0decc03b5e2b7c48a06ce956d1b6e4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Casas/klipartz.com (59).png using Guid(b0decc03b5e2b7c48a06ce956d1b6e4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea72a9488495fec8ff3f88d8ecec62d9') in 0.127773 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001858 seconds.
+  path: Assets/Sprites/Escenarios/Casas/pngwing.com (3).png
+  artifactKey: Guid(dec7498bb4532a14c8c90de566c1742d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Casas/pngwing.com (3).png using Guid(dec7498bb4532a14c8c90de566c1742d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea469e5a4e54f86d4c10091a243f0359') in 0.202093 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000691 seconds.
+  path: Assets/Sprites/Escenarios/Casas/pngwing.com (7).png
+  artifactKey: Guid(cfecea3da0030d643b7cbeb6a6b662e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Casas/pngwing.com (7).png using Guid(cfecea3da0030d643b7cbeb6a6b662e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '102582784ea337c24b01d9cb9e27f6e1') in 0.074088 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000956 seconds.
+  path: Assets/Sprites/Escenarios/Casas/klipartz.com (37).png
+  artifactKey: Guid(bf1d5702f6d56c046860eba9bbc0d2de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Casas/klipartz.com (37).png using Guid(bf1d5702f6d56c046860eba9bbc0d2de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f139e73451fa6ef3688c20d04107fae8') in 0.116592 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000755 seconds.
+  path: Assets/Sprites/Escenarios/Casas/pngwing.com (6).png
+  artifactKey: Guid(3d9c188beb191304c9307e32a224a46d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Casas/pngwing.com (6).png using Guid(3d9c188beb191304c9307e32a224a46d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab9b3d528b700bd063c22d4c05100e5d') in 0.149656 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000844 seconds.
+  path: Assets/Sprites/Escenarios/Casas/klipartz.com (49).png
+  artifactKey: Guid(9d96b244363d05642b811e898bbaabfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Casas/klipartz.com (49).png using Guid(9d96b244363d05642b811e898bbaabfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '706813e96895320611e0689cdf88768c') in 0.127481 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000788 seconds.
+  path: Assets/Sprites/Escenarios/Casas/klipartz.com (36).png
+  artifactKey: Guid(d330e868e1947314191c1b9cddfd4550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Casas/klipartz.com (36).png using Guid(d330e868e1947314191c1b9cddfd4550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fd7950dda27c8028c927f3d3c989401') in 0.175990 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 49.631879 seconds.
+  path: Assets/Sprites/Escenarios/Casas/klipartz.com (29).png
+  artifactKey: Guid(d37765305d165de4282739e77896dfb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Casas/klipartz.com (29).png using Guid(d37765305d165de4282739e77896dfb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46396d425719d33512bbd18d25221514') in 0.138979 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001536 seconds.
+  path: Assets/Sprites/Escenarios/Casas/klipartz.com (33).png
+  artifactKey: Guid(49c0c7ed417097544835021b2485ff08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Casas/klipartz.com (33).png using Guid(49c0c7ed417097544835021b2485ff08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e00b973671c82757483d440f37bef2af') in 0.143985 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 23.989589 seconds.
+  path: Assets/Sprites/Escenarios/Muros/pngwing.com (14).png
+  artifactKey: Guid(65ebfd293b0a6fb4b9737994eeef2ef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Muros/pngwing.com (14).png using Guid(65ebfd293b0a6fb4b9737994eeef2ef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e12367c1dea88dfea4716038f07008d1') in 0.131896 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000769 seconds.
+  path: Assets/Sprites/Escenarios/Muros/pngwing.com (25).png
+  artifactKey: Guid(689b597cef65c4d45af9d11761bc5874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Muros/pngwing.com (25).png using Guid(689b597cef65c4d45af9d11761bc5874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7288745a0ee9ccf99d5b95d90f8ce7c2') in 0.120740 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000764 seconds.
+  path: Assets/Sprites/Escenarios/Muros/pngwing.com.png
+  artifactKey: Guid(e48101415c0d6fc46b2ec336a1601519) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Muros/pngwing.com.png using Guid(e48101415c0d6fc46b2ec336a1601519) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a4b3012197721da3662532abafb4a13') in 0.093246 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.801853 seconds.
+  path: Assets/Sprites/Escenarios/Muros/pngwing.com (24).png
+  artifactKey: Guid(7812293d835aacf4ba20e53368ca06cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Muros/pngwing.com (24).png using Guid(7812293d835aacf4ba20e53368ca06cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfee4b5f2c998ac6ca790c3cd5eccd2c') in 0.123217 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 603.997482 seconds.
+  path: Assets/Sprites/Escenarios/Casas/pngwing.com (8).png
+  artifactKey: Guid(43559f5d7d1e6b14c87379e3c2b09587) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Casas/pngwing.com (8).png using Guid(43559f5d7d1e6b14c87379e3c2b09587) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fbfca9b0767296ef560f79b00e3a5b5') in 0.122125 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000722 seconds.
+  path: Assets/Sprites/Escenarios/Casas/pngwing.com (9).png
+  artifactKey: Guid(69f96fe7cda250847a0a5e156c7da649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Casas/pngwing.com (9).png using Guid(69f96fe7cda250847a0a5e156c7da649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86197f97f031f466815c545a26c07410') in 0.126689 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000763 seconds.
+  path: Assets/Sprites/Escenarios/Casas/pngwing.com (17).png
+  artifactKey: Guid(01f79a06665247347a54a4cc13ce8602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Casas/pngwing.com (17).png using Guid(01f79a06665247347a54a4cc13ce8602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c958b40526400dc27142d9158d9c938') in 0.153688 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000752 seconds.
+  path: Assets/Sprites/Escenarios/Casas/pngwing.com (18).png
+  artifactKey: Guid(5676d45645a5aaa4f84727ab6c2c78dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Casas/pngwing.com (18).png using Guid(5676d45645a5aaa4f84727ab6c2c78dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc0d94f68d6ee35e4cecc260988d1520') in 0.221372 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000683 seconds.
+  path: Assets/Sprites/Escenarios/Casas/pngwing.com (14).png
+  artifactKey: Guid(6b4110ef829f4a94e8294bbadc4ee042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Casas/pngwing.com (14).png using Guid(6b4110ef829f4a94e8294bbadc4ee042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac5f93adf9c3178aba6384fc750c9641') in 0.114282 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000685 seconds.
+  path: Assets/Sprites/Escenarios/Casas/pngwing.com (16).png
+  artifactKey: Guid(f4d1e8244d1aca441b49f48ca35176f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Casas/pngwing.com (16).png using Guid(f4d1e8244d1aca441b49f48ca35176f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b90fa9593e069c48856a0b5fcc8c6814') in 0.101073 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000994 seconds.
+  path: Assets/Sprites/Escenarios/Casas/pngwing.com (10).png
+  artifactKey: Guid(2cd664c63334f6a49812b6d6fc1658e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Casas/pngwing.com (10).png using Guid(2cd664c63334f6a49812b6d6fc1658e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7ad24f3e434a21e42ca847439c491d2') in 0.107509 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000804 seconds.
+  path: Assets/Sprites/Escenarios/Casas/pngwing.com (13).png
+  artifactKey: Guid(8da54ac5cd46f7b4c8ede882fc8bfa69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Casas/pngwing.com (13).png using Guid(8da54ac5cd46f7b4c8ede882fc8bfa69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13df133f491ecb08f65ebecdaa3adb68') in 0.188573 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000723 seconds.
+  path: Assets/Sprites/Escenarios/Casas/pngwing.com (15).png
+  artifactKey: Guid(afe10eda2f857a148ba65190898d50e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Casas/pngwing.com (15).png using Guid(afe10eda2f857a148ba65190898d50e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca9559ce588334e79beba258e50038ca') in 0.174236 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000784 seconds.
+  path: Assets/Sprites/Escenarios/Casas/pngwing.com (19).png
+  artifactKey: Guid(9e58d52c96f49f14db08cffc7e42ac09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Casas/pngwing.com (19).png using Guid(9e58d52c96f49f14db08cffc7e42ac09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a32a7ae7377743be23752fb1c7c7a5d') in 0.094717 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.030727 seconds.
+  path: Assets/Sprites/Escenarios/Casas/klipartz.com (73).png
+  artifactKey: Guid(4a36fde35cb43954093e6016d6330895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Casas/klipartz.com (73).png using Guid(4a36fde35cb43954093e6016d6330895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10655dea3aa147d8a6bc9eb522e46c29') in 0.075974 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.274485 seconds.
+  path: Assets/Sprites/Escenarios/Casas/klipartz.com (73).png
+  artifactKey: Guid(4a36fde35cb43954093e6016d6330895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Casas/klipartz.com (73).png using Guid(4a36fde35cb43954093e6016d6330895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfdff3a06739b8a04843c5a4f0e08ef7') in 0.355633 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1551.025314 seconds.
+  path: Assets/Sprites/Escenarios/Casas/pngwing.com (26).png
+  artifactKey: Guid(3d278c1bebbfe004791383a7b7fe789c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Casas/pngwing.com (26).png using Guid(3d278c1bebbfe004791383a7b7fe789c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e32ffb6dd354adf19538af96c0c2c5f') in 0.188373 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000782 seconds.
+  path: Assets/Sprites/Escenarios/Casas/pngwing.com.png
+  artifactKey: Guid(5e811eac29ef19449b593de56da6223e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Casas/pngwing.com.png using Guid(5e811eac29ef19449b593de56da6223e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fdc2ae0cffc638c5e16ded473ed7dfd') in 0.133492 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1040.196124 seconds.
+  path: Assets/Sprites/Escenarios/Carteles Señalizaciones
+  artifactKey: Guid(6fdf13968b263354b857ff7cc2a2dbc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carteles Señalizaciones using Guid(6fdf13968b263354b857ff7cc2a2dbc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8410ce27aeeb7599f3da97b98e36d748') in 0.040484 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 234.810872 seconds.
+  path: Assets/Sprites/Escenarios/Carteles Señalizaciones/klipartz.com (1).png
+  artifactKey: Guid(3b9fcd28def7d394f89cea036dee3ec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carteles Señalizaciones/klipartz.com (1).png using Guid(3b9fcd28def7d394f89cea036dee3ec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15ab3076672c40f615bd280487877cd4') in 0.429822 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000792 seconds.
+  path: Assets/Sprites/Escenarios/Carteles Señalizaciones/pngwing.com (2).png
+  artifactKey: Guid(02ec80912f8527a4d8a4a0cc4a402ae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carteles Señalizaciones/pngwing.com (2).png using Guid(02ec80912f8527a4d8a4a0cc4a402ae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7a25a0864047fd92c134b222ef117d9') in 0.085098 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000777 seconds.
+  path: Assets/Sprites/Escenarios/Carteles Señalizaciones/pngwing.com (1).png
+  artifactKey: Guid(6355dbce4d9e6c2448b2e842f29a84fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carteles Señalizaciones/pngwing.com (1).png using Guid(6355dbce4d9e6c2448b2e842f29a84fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a6894eb2f333fb20f55ec986ab556cd') in 0.082705 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000978 seconds.
+  path: Assets/Sprites/Escenarios/Carteles Señalizaciones/pngwing.com (19).png
+  artifactKey: Guid(ccea48316e899e34483c1a34cfbd9cac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carteles Señalizaciones/pngwing.com (19).png using Guid(ccea48316e899e34483c1a34cfbd9cac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edc2178369582d490f1db5607b244090') in 0.134874 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000690 seconds.
+  path: Assets/Sprites/Escenarios/Carteles Señalizaciones/pngwing.com (20).png
+  artifactKey: Guid(c753f7ab45f8906489b151123621f70b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carteles Señalizaciones/pngwing.com (20).png using Guid(c753f7ab45f8906489b151123621f70b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbafe5974afece7c872446d50cbd79e1') in 0.092391 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000938 seconds.
+  path: Assets/Sprites/Escenarios/Carteles Señalizaciones/klipartz.com (11).png
+  artifactKey: Guid(5dcc6c58b16ecd548b77416292d6dfb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carteles Señalizaciones/klipartz.com (11).png using Guid(5dcc6c58b16ecd548b77416292d6dfb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '992ef350bb40ba2f92a8d7fa7fb38bce') in 0.138045 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001269 seconds.
+  path: Assets/Sprites/Escenarios/Carteles Señalizaciones/pngwing.com (10).png
+  artifactKey: Guid(1e1bb6f2c75baf24bbaf817dae606bea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carteles Señalizaciones/pngwing.com (10).png using Guid(1e1bb6f2c75baf24bbaf817dae606bea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2646166f33b0f1f3b5e0364de65095db') in 0.084600 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000714 seconds.
+  path: Assets/Sprites/Escenarios/Carteles Señalizaciones/Recurso 32.png
+  artifactKey: Guid(5681c388d0d9c3543a5072abfca8dd31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carteles Señalizaciones/Recurso 32.png using Guid(5681c388d0d9c3543a5072abfca8dd31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cc2967e499037fe8db2e5a1b7c99976') in 0.090742 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000882 seconds.
+  path: Assets/Sprites/Escenarios/Carteles Señalizaciones/klipartz.com (38).png
+  artifactKey: Guid(e28ae50bed4424c49acdf0da93767d31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carteles Señalizaciones/klipartz.com (38).png using Guid(e28ae50bed4424c49acdf0da93767d31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdcbc26936d97d1a103b2b657f8cd79c') in 0.116726 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000679 seconds.
+  path: Assets/Sprites/Escenarios/Carteles Señalizaciones/klipartz.com (7).png
+  artifactKey: Guid(1b20c64b5daa61244868f264966ec0ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carteles Señalizaciones/klipartz.com (7).png using Guid(1b20c64b5daa61244868f264966ec0ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd64f5647494ed5d65a61493d1fbce13') in 0.096669 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001087 seconds.
+  path: Assets/Sprites/Escenarios/Carteles Señalizaciones/pngwing.com (21).png
+  artifactKey: Guid(f115456feda03064da461747e2ae4538) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carteles Señalizaciones/pngwing.com (21).png using Guid(f115456feda03064da461747e2ae4538) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '371e0fdc7a5d34452a6be6720fa71a25') in 0.164275 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5847.310145 seconds.
+  path: Assets/Sprites/Escenarios/CArcel
+  artifactKey: Guid(f726b930164b4274193cfc5a5b3a6099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/CArcel using Guid(f726b930164b4274193cfc5a5b3a6099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b58d7338cd8109c4fcf620eeac65f7d') in 0.099622 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.550221 seconds.
+  path: Assets/Sprites/Escenarios/Carcel
+  artifactKey: Guid(f726b930164b4274193cfc5a5b3a6099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carcel using Guid(f726b930164b4274193cfc5a5b3a6099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dddf910a2915e460daaac62c43c3cf89') in 0.037495 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 24.122094 seconds.
+  path: Assets/Sprites/Escenarios/Carcel/klipartz.com (1).png
+  artifactKey: Guid(3e2fd5360cdda9f41b1f7143a44a7699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carcel/klipartz.com (1).png using Guid(3e2fd5360cdda9f41b1f7143a44a7699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ee053406672d05ae50191252cd880fa') in 0.639578 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000936 seconds.
+  path: Assets/Sprites/Escenarios/Carcel/klipartz.com (5).png
+  artifactKey: Guid(aca49e49fcdcc8e48b730f38332af7a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carcel/klipartz.com (5).png using Guid(aca49e49fcdcc8e48b730f38332af7a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b8affa36a0305a7794da8468129f520') in 0.215108 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000778 seconds.
+  path: Assets/Sprites/Escenarios/Carcel/klipartz.com (7).png
+  artifactKey: Guid(973316c901b925b49ab5464bc17456f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carcel/klipartz.com (7).png using Guid(973316c901b925b49ab5464bc17456f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ca3b6e1afe3dbc45ba0473961a95539') in 0.105285 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000757 seconds.
+  path: Assets/Sprites/Escenarios/Carcel/klipartz.com (8).png
+  artifactKey: Guid(be809d6faa7cdb64394c518a7959d1f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carcel/klipartz.com (8).png using Guid(be809d6faa7cdb64394c518a7959d1f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '733b734c646e764c7eb1b3e0f1bbfd5b') in 0.119062 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000829 seconds.
+  path: Assets/Sprites/Escenarios/Carcel/klipartz.com.png
+  artifactKey: Guid(e4e3d60ad8e00c841a29bbb0c991be0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carcel/klipartz.com.png using Guid(e4e3d60ad8e00c841a29bbb0c991be0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '836059db20fc36d956e0718cc8e21578') in 0.079673 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000739 seconds.
+  path: Assets/Sprites/Escenarios/Carcel/klipartz.com (6).png
+  artifactKey: Guid(df97b1f7b4556c34fab565c135cf4545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carcel/klipartz.com (6).png using Guid(df97b1f7b4556c34fab565c135cf4545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '866f507b28b35b8212f8d54861f61ef2') in 0.129668 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000987 seconds.
+  path: Assets/Sprites/Escenarios/Carcel/klipartz.com (2).png
+  artifactKey: Guid(9378c9a3bd648554f8da966862de2410) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carcel/klipartz.com (2).png using Guid(9378c9a3bd648554f8da966862de2410) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '104e7025b3508a482083f27a400384a1') in 0.186295 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000719 seconds.
+  path: Assets/Sprites/Escenarios/Carcel/klipartz.com (3).png
+  artifactKey: Guid(e69a212d22cb8e14593cf92c6fabcf64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carcel/klipartz.com (3).png using Guid(e69a212d22cb8e14593cf92c6fabcf64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dafdb255b70487cf169b566230bbc444') in 0.156069 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000694 seconds.
+  path: Assets/Sprites/Escenarios/Carcel/klipartz.com (4).png
+  artifactKey: Guid(9da7897deafe7c74b9ab4ecfa0aeb2e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carcel/klipartz.com (4).png using Guid(9da7897deafe7c74b9ab4ecfa0aeb2e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a32b454966b0bbf48c196ac01c760bdb') in 0.124954 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2476.931279 seconds.
+  path: Assets/Sprites/Escenarios/Carcel/kisspng-prisoner-convict-royalty-free-clip-art-handcuffs-5ab79c201f51e4.3216544415219824961283.png
+  artifactKey: Guid(c1b701d639e054246adfbab550941de0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carcel/kisspng-prisoner-convict-royalty-free-clip-art-handcuffs-5ab79c201f51e4.3216544415219824961283.png using Guid(c1b701d639e054246adfbab550941de0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fafd06aa8f41260bc88349d40693ef7') in 3.224500 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.489505 seconds.
+  path: Assets/Sprites/Escenarios/Carcel/pngwing.com (13).png
+  artifactKey: Guid(09d4c874381c51e44a42cad0b889de3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carcel/pngwing.com (13).png using Guid(09d4c874381c51e44a42cad0b889de3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caed1f3e06098393e32635db4d10ee05') in 2.719658 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.210021 seconds.
+  path: Assets/Sprites/Escenarios/Carcel/pngwing.com (2).png
+  artifactKey: Guid(92cc015125c63f64aad1c23a664e7ba0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carcel/pngwing.com (2).png using Guid(92cc015125c63f64aad1c23a664e7ba0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86987a75046824eae958aa7c1f56330f') in 1.555656 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.030316 seconds.
+  path: Assets/Sprites/Escenarios/Carcel/pngwing.com (18).png
+  artifactKey: Guid(12ed744d2aaa309419fc2ba44eb17cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carcel/pngwing.com (18).png using Guid(12ed744d2aaa309419fc2ba44eb17cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcb07ab43ac7b2944a57aaaf87e29032') in 8.728625 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.120678 seconds.
+  path: Assets/Sprites/Escenarios/Carcel/pngwing.com (1).png
+  artifactKey: Guid(36f7081198edcce4db6a527eedee1f0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carcel/pngwing.com (1).png using Guid(36f7081198edcce4db6a527eedee1f0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ab452521dba4002eade7489ef4b0894') in 0.846117 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.002131 seconds.
+  path: Assets/Sprites/Escenarios/Carcel/pngwing.com (12).png
+  artifactKey: Guid(848e2385bff954c4a995ab96cda7776c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carcel/pngwing.com (12).png using Guid(848e2385bff954c4a995ab96cda7776c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7bd299f19a6bf92daaf8777cde2d912') in 0.535295 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.005469 seconds.
+  path: Assets/Sprites/Escenarios/Carcel/pngwing.com (19).png
+  artifactKey: Guid(34e1c3f859dcd724ab2388fb18575673) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carcel/pngwing.com (19).png using Guid(34e1c3f859dcd724ab2388fb18575673) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5e6e122882ad4c7a6c6d16b05f45bfb') in 0.449884 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001429 seconds.
+  path: Assets/Sprites/Escenarios/Carcel/pngwing.com (17).png
+  artifactKey: Guid(4a7cd1aed6c7364408c0fd17866aa1ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carcel/pngwing.com (17).png using Guid(4a7cd1aed6c7364408c0fd17866aa1ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f119b92fcc2f58ebbb86ff66cf07a528') in 0.523664 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.002817 seconds.
+  path: Assets/Sprites/Escenarios/Carcel/pngwing.com (7).png
+  artifactKey: Guid(e9a9778bc0673ea4e870c49e5b3ed364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carcel/pngwing.com (7).png using Guid(e9a9778bc0673ea4e870c49e5b3ed364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63c50857b1af5b1c7c4911a0f3735c07') in 0.694794 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001467 seconds.
+  path: Assets/Sprites/Escenarios/Carcel/pngwing.com (15).png
+  artifactKey: Guid(f22ea442ad3c26e4e9a4248cc4b3a93c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carcel/pngwing.com (15).png using Guid(f22ea442ad3c26e4e9a4248cc4b3a93c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1df43b224bc5f78e7e0ed0f8112bc220') in 0.605653 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.002142 seconds.
+  path: Assets/Sprites/Escenarios/Carcel/pngwing.com (3).png
+  artifactKey: Guid(23e501fe1d6ca974fb79f0ce5b0941a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carcel/pngwing.com (3).png using Guid(23e501fe1d6ca974fb79f0ce5b0941a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b1420654b1400b2b6322f7b821b088e') in 0.526873 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.037408 seconds.
+  path: Assets/Sprites/Escenarios/Carcel/pngwing.com (6).png
+  artifactKey: Guid(75f45c05351cade4e96047b8d8792a5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carcel/pngwing.com (6).png using Guid(75f45c05351cade4e96047b8d8792a5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de3a388253ae20868aeb700408d0bd91') in 0.794016 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2095.263159 seconds.
+  path: Assets/Sprites/Escenarios/Carcel/faro
+  artifactKey: Guid(d715b4d5e6163c946ab4c9cabb4cd6cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carcel/faro using Guid(d715b4d5e6163c946ab4c9cabb4cd6cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92080a4eaccfaeb9bf513e9d478efde7') in 0.127578 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 68.517721 seconds.
+  path: Assets/Sprites/Escenarios/Carcel/faro/pngwing.com (2).png
+  artifactKey: Guid(f1c511146e1840448b98db2b42cd83df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carcel/faro/pngwing.com (2).png using Guid(f1c511146e1840448b98db2b42cd83df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b9184659dd5a247dfa983fb0b0cb067') in 3.450019 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.005977 seconds.
+  path: Assets/Sprites/Escenarios/Carcel/faro/pngwing.com (4).png
+  artifactKey: Guid(9076bf57b9e51cb4288de02c6acfd494) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carcel/faro/pngwing.com (4).png using Guid(9076bf57b9e51cb4288de02c6acfd494) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9de639928246901d14ecae3269e336ab') in 0.692846 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003572 seconds.
+  path: Assets/Sprites/Escenarios/Carcel/faro/pngwing.com (5).png
+  artifactKey: Guid(335a3c64e1eec0147acaec7788e5507f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carcel/faro/pngwing.com (5).png using Guid(335a3c64e1eec0147acaec7788e5507f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '336e68f58534d7471cc20ec62fefaeee') in 0.808536 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.006100 seconds.
+  path: Assets/Sprites/Escenarios/Carcel/faro/pngwing.com (8).png
+  artifactKey: Guid(8d226a16e7ef33d4db820825ece4a4db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carcel/faro/pngwing.com (8).png using Guid(8d226a16e7ef33d4db820825ece4a4db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08556a41329cc2383767878b25a73fdd') in 1.100264 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.005675 seconds.
+  path: Assets/Sprites/Escenarios/Carcel/faro/pngwing.com (7).png
+  artifactKey: Guid(8e7b86ba57673474ab7a86f049dbbcc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carcel/faro/pngwing.com (7).png using Guid(8e7b86ba57673474ab7a86f049dbbcc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb3297931e2a19518ed1323f6ffb4cb3') in 1.933038 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.519055 seconds.
+  path: Assets/Sprites/Escenarios/Carcel/faro/pngwing.com.png
+  artifactKey: Guid(0895370f89a1e404d83e868be1d1c67f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carcel/faro/pngwing.com.png using Guid(0895370f89a1e404d83e868be1d1c67f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '879765d698838ac820d7ffc810bb09b7') in 2.147028 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 99.006454 seconds.
+  path: Assets/Sprites/Escenarios/Carcel/faro/pngwing.com.png
+  artifactKey: Guid(0895370f89a1e404d83e868be1d1c67f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carcel/faro/pngwing.com.png using Guid(0895370f89a1e404d83e868be1d1c67f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4921a0a89bb5f144df8136ae5fd13867') in 0.486820 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.735745 seconds.
+  path: Assets/Sprites/Escenarios/Carcel/faro/pngwing.com.png
+  artifactKey: Guid(0895370f89a1e404d83e868be1d1c67f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Escenarios/Carcel/faro/pngwing.com.png using Guid(0895370f89a1e404d83e868be1d1c67f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1c241f811fb993f60180fdc3dc2794a') in 0.923219 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
